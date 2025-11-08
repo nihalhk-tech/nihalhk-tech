@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 
 <h3 align="center">
-  <a href="https://github.com/nihalhk-dev">
+  <a href="https://github.com/nihalhk-tech">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A57FF&width=435&lines=Aspiring+Machine+Learning+Engineer;Python+Developer+%7C+Automation+Enthusiast;Building+my+future+with+AI+and+creativity!" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihalhk-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nihalhk-dev" />
+  <img src="https://komarev.com/ghpvc/?username=nihalhk-tech&label=Profile%20views&color=0e75b6&style=flat" alt="nihalhk-tech" />
 </p>
 
 ---
@@ -77,9 +77,9 @@ I love building things that blend logic with imagination — from **automation s
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/nihalhk-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihalhk-dev" height="30" width="40" /></a>
+<a href="https://github.com/nihalhk-tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nihalhk-tech" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/nihal-hamou-sbira-ktitu-66107027b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:nihalhk.dev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:nihalhk.tech@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
@@ -104,15 +104,15 @@ I love building things that blend logic with imagination — from **automation s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalhk-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalhk-tech&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-dev&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-tech&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhk-dev&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalhk-tech&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
