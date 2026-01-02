@@ -83,5 +83,4 @@ FastAPI · LangChain · Cloud AI (AWS / GCP)
 - 🚀 Internships & junior ML roles  
 
 <p align="center">
-  <i>Building my future with AI, one project at a time.</i>
 </p>
