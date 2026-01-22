@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nihalhk-tech">GitHub</a> •
   <a href="https://www.linkedin.com/in/nihal-hamou-sbira-ktitu-66107027b">LinkedIn</a> •
   <a href="mailto:nihalhk.dev@gmail.com">Email</a>
 </p>
@@ -27,11 +26,11 @@ I enjoy building **practical, data-driven systems** and experimenting with **int
 ### 🤖 AI & ML Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Pipelines-7B68EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science-Analysis%20%26%20Visualization-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20Experiments-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-AI%20APIs%20with%20Python-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Pipelines-FFD6BA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-B3E5FC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-Analysis%20%26%20Visualization-BDCCEA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%26%20Experiments-FFD6BA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-AI%20APIs%20with%20Python-B2DFDB?style=for-the-badge" />
 </p>
 
 ---
@@ -39,39 +38,83 @@ I enjoy building **practical, data-driven systems** and experimenting with **int
 ### 🧩 Tech Stack
 
 **Languages**  
-Python · JavaScript · PHP · Java · C# · C++
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-A8D5BA?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FCE5A8?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-C5B3E6?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-A8C4E6?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-BAD7E6?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-B0C4DE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-A8D5E6?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-CDEAC0?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 **Frameworks & Backend**  
-Django · Flask · CodeIgniter · REST APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-CAD7C8?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-F2E6D9?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-F9C6C6?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-BFD7EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-B3E0D4?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**AI / Data**  
-TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · Jupyter
+**Data / Python (Foundations)**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-D1C4E9?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-C8E6C9?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FADADD?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-FFD6BA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-BDCCEA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Manipulation-B2DFDB?style=for-the-badge" />
+</p>
 
-**Tools**  
-Git · Docker · GitHub Actions · VS Code
+**Databases**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-AED6F1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-B3E5FC?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-CED7E0?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-C6E2D3?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-**Currently learning**  
-FastAPI · LangChain · Cloud AI (AWS / GCP)
+**DevOps & Deployment**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-B3E5FC?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-BFD7EA?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-FDE2B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FFF3B0?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
----
+**Tools & Workflow**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-D1C4E9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-B3E5FC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FFD6BA?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual_Env-B2DFDB?style=for-the-badge" />
+</p>
 
-### 🚧 What I’m Working On
-
-- 🧠 Strengthening ML fundamentals through hands-on projects  
-- 🤖 AI-powered web applications for my portfolio  
-- ⚙️ Python automation & workflow optimization  
-- 📝 Sharing my ML learning journey
+**Currently Learning (Data & Machine Learning)**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit-learn-FDE2B7?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FADADD?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-B3E5FC?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-BDCCEA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-B2DFDB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud(AWS/GCP)-FFF3B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-FFD6BA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-BAD7E6?style=for-the-badge" />
+</p>
 
 ---
 
 ### 📊 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalhk-tech&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalhk-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,5 +125,4 @@ FastAPI · LangChain · Cloud AI (AWS / GCP)
 - 🧪 Research-oriented learning projects  
 - 🚀 Internships & junior ML roles  
 
-<p align="center">
-</p>
+<p align="center"></p>
