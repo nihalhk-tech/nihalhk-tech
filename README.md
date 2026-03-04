@@ -113,10 +113,6 @@ I enjoy building **practical, data-driven systems** and experimenting with **int
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalhk-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalhk-dev&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🌍 Open to
