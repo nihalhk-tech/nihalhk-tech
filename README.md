@@ -115,10 +115,5 @@ I enjoy building **practical, data-driven systems** and experimenting with **int
 
 ---
 
-### 🌍 Open to
-
-- 🤝 AI / ML open-source collaborations  
-- 🧪 Research-oriented learning projects  
-- 🚀 Internships & junior ML roles  
 
 <p align="center"></p>
